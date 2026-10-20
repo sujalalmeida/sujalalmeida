@@ -2,7 +2,7 @@
 
 # Hi, I'm Sujal Almeida 👋
 
-**Computer science student in Mumbai · Building useful software with AI, privacy, and the web**
+**Master's Computer science student in Boston · Building useful software with AI, privacy, and the web**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;duration=3000&amp;pause=900&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=680&amp;lines=Turning+ideas+into+working+products;Exploring+AI+and+privacy-preserving+tech;Always+learning%2C+always+building" alt="Typing animation: turning ideas into working products, exploring AI and privacy-preserving technology, always learning and building" />
 
@@ -14,7 +14,7 @@ I enjoy taking an idea from prototype to something people can actually use. My p
 
 - 🛠️ **Build with:** TypeScript, React, Python, and the tools each project needs
 - 🧠 **Interested in:** AI, machine learning, privacy, and thoughtful product design
-- 📍 **Based in:** Mumbai, India
+- 📍 **Based in:** Boston, United States
 
 ## Selected projects
 
